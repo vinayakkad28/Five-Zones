@@ -1,0 +1,8 @@
+{
+  "name": "The Five Culinary Zones",
+  "description": "An immersive hospitality experience exploring five distinct architectural and culinary points: Burger, Coffee, Pizza, Khichdi, and Water.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
